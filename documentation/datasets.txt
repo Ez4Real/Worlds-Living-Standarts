@@ -1,0 +1,6 @@
+Индекс качества жизни по странам
+https://www.numbeo.com/quality-of-life/rankings_by_country.jsp?title=2021-mid
+
+Отчет о мировом счастье		- 	https://www.kaggle.com/unsdsn/world-happiness
+
+Набор данных о качестве жизни в городе		-	https://www.kaggle.com/orhankaramancode/city-quality-of-life-dataset

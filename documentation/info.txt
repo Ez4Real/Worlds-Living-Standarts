@@ -1,0 +1,5 @@
+https://www.numbeo.com/quality-of-life/rankings_by_country.jsp?title=2021-mid
+https://github.com/kb22/Web-Scraping-using-Python/blob/master/Dataset.csv
+https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b
+https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population
+https://www.kaggle.com/
